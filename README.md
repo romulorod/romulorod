@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-# &#128187; Introduction #
+# &#128187; Introdução #
 
 
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="left" style="min-width: 300px"> <img src="html5.svg" alt="html5" width="40" height="40"/><img src="css3.png" alt="css3" width="40" height="40"/> <img src="js.png" alt="git" width="40" height="40"/> <img src="react;png" alt="javascript" width="40" height="40"/>
+<p align="left" style="min-width: 300px"> <img src="html5.svg" alt="html5" width="40" height="40"/><img src="css3.png" alt="css3" width="40" height="40"/> <img src="js.png" alt="git" width="40" height="40"/> <img src="react.png" alt="react" width="40" height="40"/>
 
 
 <p align="center">
