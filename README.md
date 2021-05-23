@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 <p align="center">
 Connect with me <br>
 <a href="https://www.linkedin.com/in/romulo-rodrigues-dev/">
-  <img align="center" alt="Romulo Rod LinkedIn" width="30px" src="linkedin.png" />
+  <img align="center" alt="Romulo Rod LinkedIn" width="50px" src="linkedin.png" />
 </a>
 <a href="https://github.com/romulorod">
-  <img align="center" alt="Romulo Rod Github" width="30px" src="github.png" />
+  <img align="center" alt="Romulo Rod Github" width="50px" src="github.png" />
 </a>
