@@ -36,15 +36,15 @@ Here are some ideas to get you started:
 
 ### Agile Developing is effective, I'd rather team work than Solo Work. ###  
 
-### Continuously learning my Developer Skills, nowadays I can code with JavaScript using HTML5 and CSS3. Also learning React JS everyday. ###
+### Continuously improving my Developer Skills, nowadays I can code with JavaScript using HTML5 and CSS3. Also learning React JS everyday. ###
 
 
 
-# Tecnologias que estou estudando #
+# Technologies I'm currently studying #
 
 
 
-<p align="left" style="min-width: 300px"> <img src="html5.svg" alt="html5" width="40" height="40"/><img src="css3.png" alt="css3" width="40" height="40"/> <img src="js.png" alt="git" width="40" height="40"/> <img src="react.png" alt="react" width="40" height="40"/>
+<p align="left" style="min-width: 300px"> <img src="html5.svg" alt="html5" width="40" height="40"/><img src="css3.png" alt="css3" width="40" height="40"/> <img src="js.png" alt="git" width="40" height="40"/> <img src="react.png" alt="react" width="40" height="40"/><img src="nodejs.png" alt="nodejs" width="40" height="40"/><img src="mongodb.png" alt="mongodb" width="40" height="40"/>
 
 
 <p align="center">
@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 <p align="center">
 Connect with me <br>
 <a href="https://www.linkedin.com/in/romulo-rodrigues-dev/">
-  <img align="center" alt="Romulo Rod LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Romulo Rod LinkedIn" width="30px" src="linkedin.png" />
 </a>
 <a href="https://github.com/romulorod">
-  <img align="center" alt="Romulo Rod Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Romulo Rod Github" width="30px" src="github.png" />
 </a>
