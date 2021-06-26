@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Agile Developing is effective, I'd rather team work than Solo Work. ###  
 
-### Continuously improving my Developer Skills, nowadays I can code with JavaScript using HTML5 and CSS3. Also learning React JS everyday. ###
+### Continuously improving my Developer Skills. ###
 
 
 
