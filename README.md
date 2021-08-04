@@ -31,7 +31,11 @@ Here are some ideas to get you started:
 
 ### Continuously improving my Developer Skills.
 
-- 📫 How to reach me: biorodrigues@gmail.com
+- 📫 How to reach me: 
+    
+    biorodrigues@gmail.com
+    
+    https://www.linkedin.com/in/romulo-rodrigues-dev/
 
 <br/>
 
