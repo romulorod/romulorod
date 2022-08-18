@@ -39,25 +39,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-# Some of my projects:
-
-<a href="https://github.com/romulorod/reactecommerce" target="_blank">
-
-## E-commerce - MERN Stack
-
-</a>
-<img width="48%" style="padding: 0.3rem" align="center" src="proshop1.png" alt="E-commerce - MERN Stack" />
-<img width="48%" style="padding: 0.3rem" align="center" src="proshop2.png" alt="E-commerce - MERN Stack" />
-
-<hr />
-<a href="https://github.com/romulorod/menthorship">
-
-## Menthorship WebSite
-
-</a>
-<img width="24%" style="padding: 0.3rem" align="center" src="menthorship-site-preview1.png" alt="E-commerce - MERN Stack" />
-<img width="48%" style="padding: 0.3rem" align="center" src="menthorship-site-preview2.png" alt="E-commerce - MERN Stack" />
-
 # Technologies I currently develop with:
 
 <p align="left" style="min-width: 300px"> <img src="html5.svg" alt="html5" width="40" height="40"/><img src="css3.png" alt="css3" width="40" height="40"/> <img src="js.png" alt="git" width="40" height="40"/> <img src="react.png" alt="react" width="40" height="40"/><img src="nodejs.png" alt="nodejs" width="60" height="40"/><img src="mongodb.png" alt="mongodb" width="40" height="40"/>
